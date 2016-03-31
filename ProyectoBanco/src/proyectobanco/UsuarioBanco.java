@@ -112,10 +112,7 @@ public class UsuarioBanco extends JFrame implements ActionListener{
     private class DetailsButtonHandler implements ActionListener {
         @Override
         public void actionPerformed(ActionEvent e){
-          details = new JFrame();
-            details.setSize(800,400);
-            
-            
+                      
 
         }
     }
