@@ -12,7 +12,7 @@ import java.util.*;
 public class Banco {
     
     private ArrayList<Cliente> clientes;
-    private int numClientes=0;
+    private int numClientes;
    
     public Banco(){
         clientes= new ArrayList<>();

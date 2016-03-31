@@ -1,8 +1,5 @@
 package proyectobanco;
 
-
-import proyectobanco.Cuenta;
-
 public class Cliente{
 	private String nombre;
 	private Cuenta cuenta;
